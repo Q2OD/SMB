@@ -1,0 +1,30 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": "/",
+            "servers": {}
+        },
+        "owners": [
+            "737466971268055061"
+        ]
+    },
+    "discord": {
+        "servers": {},
+        "members": {},
+        "users": {}
+    },
+    "custom": {
+        "LastMusicBlocksUpdate": "2024-04-18T21:15:10.331Z"
+    },
+    "blocks": {
+        "ban_user": {
+            "time": {
+                "854407582650204210": [
+                    30000,
+                    "1217203604017123419",
+                    "undefined"
+                ]
+            }
+        }
+    }
+}
